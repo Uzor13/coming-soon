@@ -27,12 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](https://user-images.githubusercontent.com/40992425/118311519-ece7ee80-b4e7-11eb-8b0b-c4781f07c67e.png)
+![Mobile](https://user-images.githubusercontent.com/40992425/118311538-f1aca280-b4e7-11eb-9185-a8e2a433e4e2.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Uzor13/coming-soon/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
